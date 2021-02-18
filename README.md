@@ -1,3 +1,4 @@
 # Hello-World_101
 CM1707 Question 1b Hello World Repository
-print("Hello World")
+username = str(input("Enter your name: "))
+print("Hello " + username)
